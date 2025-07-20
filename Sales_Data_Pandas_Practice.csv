@@ -1,0 +1,6 @@
+Region,Country,Item_Type,Sales_Channel,Order_Priority,Order_Date,Order_ID,Units_Sold,Unit_Price,Unit_Cost,Total_Revenue,Total_Cost,Total_Profit
+Sub-Saharan Africa,South Africa,Fruits,Offline,High,1/1/2020,123456789,1000,9.33,6.92,9330,6920,2410
+Middle East and North Africa,Egypt,Clothes,Online,Medium,3/15/2020,234567890,1500,45.0,30.0,67500,45000,22500
+Asia,India,Beverages,Online,Low,6/10/2020,345678901,500,2.5,1.5,1250,750,500
+Europe,Germany,Office Supplies,Offline,Critical,8/5/2020,456789012,700,651.0,524.0,455700,366800,88900
+Australia and Oceania,Australia,Cosmetics,Online,High,11/20/2020,567890123,1300,437.2,263.3,568360,342290,226070
